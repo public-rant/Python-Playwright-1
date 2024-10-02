@@ -8,6 +8,7 @@ authors = ["Your Name <you@example.com>"]
 python = ">=3.10.0,<3.13"
 playwright = "1.40.0"
 replit = "^4.1.0"
+openai = "^1.51.0"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
