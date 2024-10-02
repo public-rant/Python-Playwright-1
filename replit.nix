@@ -1,5 +1,7 @@
 {pkgs} : {
   deps = [
+    pkgs.tmux
+    pkgs.calcurse
     pkgs.playwright-driver
     pkgs.gitFull
   ];
